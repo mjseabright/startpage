@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 80 80"
+   height="80"
+   width="80">
+  <defs
+     id="defs4">
+    <symbol
+       id="Not_Gate_Small">
+      <title
+         id="title7515">Not Gate Small</title>
+      <path
+         id="path7517"
+         d="m 67.5,50 c 0,1.380712 -1.119288,2.5 -2.5,2.5 -1.380712,0 -2.5,-1.119288 -2.5,-2.5 0,-1.380712 1.119288,-2.5 2.5,-2.5 C 66.380712,47.5 67.5,48.619288 67.5,50 Z" />
+      <path
+         id="path7519"
+         style="stroke-miterlimit:2"
+         d="m 37.711573,40 25,10 L 37.711573,60 Z" />
+    </symbol>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-972.36216)"
+     id="layer1">
+    <circle
+       r="40"
+       cy="1012.3622"
+       cx="40"
+       id="path4136"
+       style="opacity:1;fill:#e22a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:4, 1;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       id="path11524"
+       d="m 35.127748,1005.5231 20.720467,14.3391 -0.401786,-18.3929 z"
+       style="fill:#c8231b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       id="path11522"
+       d="m 28.628489,1029.5034 c -6.904387,-0.2218 -8.751526,-0.6032 -10.455293,-2.1592 -0.837851,-0.7651 -1.407758,-1.7987 -1.871555,-3.3943 -0.568093,-1.9543 -0.760196,-4.3514 -0.834645,-10.4149 -0.0979,-7.9735 0.233677,-11.5174 1.32223,-14.13225 0.763657,-1.83439 2.520516,-3.24515 4.535973,-3.6424 4.213797,-0.83054 31.263898,-0.89379 36.83599,-0.0861 3.762052,0.54532 5.601164,2.89859 6.207452,7.9428 0.240346,1.9998 0.241061,15.6344 9.42e-4,17.5179 -0.494099,3.8752 -1.628686,6.0656 -3.730885,7.2028 -1.363103,0.7376 -2.856529,0.9263 -9.296276,1.1754 -3.896233,0.1506 -17.906179,0.1445 -22.713905,-0.01 z m 13.400534,-13.9551 c 1.916276,-0.9994 4.075388,-2.1206 4.798026,-2.4917 l 1.313887,-0.6746 -0.576857,-0.3287 c -0.317272,-0.1808 -2.86835,-1.5195 -5.669061,-2.9749 -2.800713,-1.4556 -5.469093,-2.8509 -5.929737,-3.1008 l -0.837533,-0.4545 0,6.8224 0,6.8224 1.708568,-0.9014 c 0.939712,-0.4958 3.276431,-1.7189 5.192707,-2.7182 z"
+       style="fill:#ffffff;fill-opacity:1" />
+  </g>
+</svg>
